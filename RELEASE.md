@@ -1,0 +1,3 @@
+# MALITOOLS 1.0 - The Ultimate Mali GPU Revolution
+
+This revolutionary version of MALITOOLS unleashes unmatched performance, promising to push your Mali GPU to its limits! Experience gaming like never before with the newest enhancements, including full Winlator support, ensuring seamless integration with Windows applications. Play the latest blockbuster, Cyberpunk 2077, at an astonishing 100 FPS, leaving previous versions in the dust and allowing for an immersive gaming experience that you've only dreamed of!
